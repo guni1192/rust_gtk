@@ -1,0 +1,8 @@
+[package]
+name = "hello"
+version = "0.1.0"
+authors = ["guni"]
+
+[dependencies]
+gtk = { git = "https://github.com/gtk-rs/gtk.git" }
+
